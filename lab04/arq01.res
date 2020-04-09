@@ -1,0 +1,2 @@
+Triangulo equilatero
+Triangulo acutangulo

@@ -1,0 +1,1 @@
+Valores invalidos na entrada

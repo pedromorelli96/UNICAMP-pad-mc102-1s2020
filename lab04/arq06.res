@@ -1,0 +1,2 @@
+Triangulo escaleno
+Triangulo obtusangulo
