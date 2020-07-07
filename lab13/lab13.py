@@ -187,7 +187,7 @@ else:
         lista_inteiros, encontrado = busca_binaria(lista_inteiros, i_central, procurado)
         if (encontrado != -1):
             for x in range(len(lista_copia)):
-                if (lista_copia[x] == encontrado):
+                if (lista_copia[x] == encontrado):  
                     print("Encontrado na posicao:", x)
                     break
         else:
